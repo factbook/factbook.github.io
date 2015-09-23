@@ -1,0 +1,31 @@
+###########
+#  site.title, site.url, site.path
+
+title: 'World Factbook'
+
+## note: in path do NOT include root (trailing slash) e.g. (/) - use empty string instead
+path:  '/factbook'
+url:   'http://openmundi.github.io/factbook'
+
+
+########
+# more settings
+
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
