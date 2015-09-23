@@ -41,9 +41,9 @@ Subsections (fields) use `div`'s with the id `field` and the class `category`.
 Examples:
 
 ``` html
-<div id='field' class='category'>Background:</div>   <!-- starts the subsection Background -->
+<div id='field' class='category'>Background:</div> <!-- starts the subsection Background -->
 ...
-<div id='field' class='category'>Location:</div>     <!-- starts the subsection Location -->
+<div id='field' class='category'>Location:</div>   <!-- starts the subsection Location -->
 ...
 <div id='field' class='category'>Geographic coordinates:</div>
 ...
