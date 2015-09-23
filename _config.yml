@@ -1,7 +1,7 @@
 ###########
 #  site.title, site.url, site.path
 
-title: 'World Factbook'
+title: 'The World Factbook'
 
 ## note: in path do NOT include root (trailing slash) e.g. (/) - use empty string instead
 path:  '/factbook'
