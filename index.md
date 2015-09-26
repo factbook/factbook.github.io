@@ -22,7 +22,7 @@ The World Factbook includes 267 entries -
 
 ## Sovereign Countries (195)
 
-**A**
+**-A-**
 `af` [Afghanistan](af) · 
 `al` [Albania](al) · 
 `ag` [Algeria](ag) ·
@@ -35,7 +35,7 @@ The World Factbook includes 267 entries -
 `au` [Austria](au) ·
 `aj` [Azerbaijan](aj)
 
-**B**
+**-B-**
 `bf` [The Bahamas](bf) ·
 `ba` [Bahrain](ba) ·
 `bg` [Bangladesh](bg) ·
@@ -55,7 +55,7 @@ The World Factbook includes 267 entries -
 `bm` [Burma](bm) ·
 `by` [Burundi](by)
 
-**C**
+**-C-**
 `cb` [Cambodia](cb) ·
 `cm` [Cameroon](cm) ·
 `ca` [Canada](ca) ·
@@ -75,7 +75,7 @@ The World Factbook includes 267 entries -
 `cy` [Cyprus](cy) ·
 `ez` [Czech Republic](ez)
 
-**D**
+**-D-**
 `da` Denmark
 `dj` Djibouti
 `do` Dominica
