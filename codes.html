@@ -6,12 +6,12 @@ layout: default
 
 <table>
 
-{% for profile in site.profiles %}
+{% for profile in site.profiles | sort: 'country_code' %}
 <tr>
   <td>{{ profile.title }}</td>
   <td><code>{{ profile.country_code }}</code>
-      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }},
-      {{ profile.region_name }}
+      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
+        › {{ profile.region_name }}
   </td>
   <td>{{ profile.last_updated }}</td>
 </tr>

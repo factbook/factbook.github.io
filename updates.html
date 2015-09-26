@@ -8,12 +8,12 @@ layout: default
 
 <!--try sort by last_updated - how? possible? -->
 
-{% for profile in site.profiles %}
+{% for profile in site.profiles | sort: 'last_updated' %}
 <tr>
   <td>{{ profile.last_updated }}</td>
   <td><code>{{ profile.country_code }}</code>
-      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }},
-      {{ profile.region_name }}
+      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
+        › {{ profile.region_name }}
   </td>
 </tr>
 {% endfor %}
