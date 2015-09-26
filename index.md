@@ -23,54 +23,54 @@ The World Factbook includes 267 entries -
 ## Sovereign Countries (195)
 
 **A**
-`af` [Afghanistan](af)
-`al` [Albania](al)
-`ag` [Algeria](ag)
-`an` [Andorra](an)
-`ao` [Angola](ao)
-`ac` [Antigua and Barbuda](ac)
-`ar` [Argentina](ar)
-`am` [Armenia](am)
-`as` [Australia](as)
-`au` [Austria](au)
+`af` [Afghanistan](af) · 
+`al` [Albania](al) · 
+`ag` [Algeria](ag) ·
+`an` [Andorra](an) ·
+`ao` [Angola](ao) ·
+`ac` [Antigua and Barbuda](ac) ·
+`ar` [Argentina](ar) ·
+`am` [Armenia](am) ·
+`as` [Australia](as) ·
+`au` [Austria](au) ·
 `aj` [Azerbaijan](aj)
 **B**
-`bf` [The Bahamas](bf)
-`ba` [Bahrain](ba)
-`bg` [Bangladesh](bg)
-`bb` [Barbados](bb)
-`bo` [Belarus](bo)
-`be` [Belgium](be)
-`bh` [Belize](bh)
-`bn` [Benin](bn)
-`bt` [Bhutan](bt)
-`bl` [Bolivia](bl)
-`bk` [Bosnia and Herzegovina](bk)
-`bc` [Botswana](bc)
-`br` [Brazil](br)
-`bx` [Brunei](bx)
-`bu` [Bulgaria](bu)
-`uv` [Burkina Faso](uv)
-`bm` [Burma](bm)
+`bf` [The Bahamas](bf) ·
+`ba` [Bahrain](ba) ·
+`bg` [Bangladesh](bg) ·
+`bb` [Barbados](bb) ·
+`bo` [Belarus](bo) ·
+`be` [Belgium](be) ·
+`bh` [Belize](bh) ·
+`bn` [Benin](bn) ·
+`bt` [Bhutan](bt) ·
+`bl` [Bolivia](bl) ·
+`bk` [Bosnia and Herzegovina](bk) ·
+`bc` [Botswana](bc) ·
+`br` [Brazil](br) ·
+`bx` [Brunei](bx) ·
+`bu` [Bulgaria](bu) ·
+`uv` [Burkina Faso](uv) ·
+`bm` [Burma](bm) ·
 `by` [Burundi](by)
 **C**
-`cb` [Cambodia](cb)
-`cm` [Cameroon](cm)
-`ca` [Canada](ca)
-`cv` [Cape Verde](cv)
-`ct` [Central African Republic](ct)
-`cd` [Chad](cd)
-`ci` [Chile](ci)
-`ch` [China](ch)
-`co` [Colombia](co)
-`cn` [Comoros](cn)
-`cg` [Congo DR](cg)
-`cf` [Congo](cf)
-`cs` [Costa Rica](cs)
-`iv` [Cote d'Ivoire](iv)
-`hr` [Croatia](hr)
-`cu` [Cuba](cu)
-`cy` [Cyprus](cy)
+`cb` [Cambodia](cb) ·
+`cm` [Cameroon](cm) ·
+`ca` [Canada](ca) ·
+`cv` [Cape Verde](cv) ·
+`ct` [Central African Republic](ct) ·
+`cd` [Chad](cd) ·
+`ci` [Chile](ci) ·
+`ch` [China](ch) ·
+`co` [Colombia](co) ·
+`cn` [Comoros](cn) ·
+`cg` [Congo DR](cg) ·
+`cf` [Congo](cf) ·
+`cs` [Costa Rica](cs) ·
+`iv` [Cote d'Ivoire](iv) ·
+`hr` [Croatia](hr) ·
+`cu` [Cuba](cu) ·
+`cy` [Cyprus](cy) ·
 `ez` [Czech Republic](ez)
 **D**
 `da` Denmark
