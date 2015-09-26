@@ -4,14 +4,25 @@ layout: default
 
 <h1>{{ site.title }} Codes</h1>
 
+<div>
+{% for profile in site.profiles | sort: 'country_code' %}
+  <code>{{ profile.country_code }}</code>
+{% endfor %}  
+</div>
+
+
 <table>
 
 {% for profile in site.profiles | sort: 'country_code' %}
 <tr>
   <td>{{ profile.title }}</td>
-  <td><code>{{ profile.country_code }}</code>
-      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
+  <td><code>{{ profile.country_code }}</code></td>
+  <td>
+      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a>
         › {{ profile.region_name }}
+      {% if profile.country_affiliation %}
+        <br>{{ profile.country_affiliation }}
+      {% endif %}
   </td>
   <td>{{ profile.last_updated }}</td>
 </tr>

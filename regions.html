@@ -14,11 +14,12 @@ layout: default
 {% for region in site.regions %}
 <h2>{{ region }}</h2>
 
+<!-- todo/fix: sort not working ?? -->
 {% for profile in site.profiles | sort: 'country_name' %}
   {% if region == profile.region_name %}
     <code>{{ profile.country_code }}</code>
     <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
-    •
+     ·
   {% endif %}
 {% endfor %}
 
