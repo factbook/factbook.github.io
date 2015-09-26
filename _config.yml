@@ -8,6 +8,24 @@ path:  '/factbook'
 url:   'http://openmundi.github.io/factbook'
 
 
+##  all world factbook regions
+regions:
+- Europe
+- South Asia
+- Central Asia
+- East & Southeast Asia
+- Middle East
+- Africa
+- North America
+- Central America and Caribbean
+- South America
+- Australia-Oceania
+- Antarctica
+- Oceans
+- World         ## note: official assigned world region is oceans
+
+
+
 ########
 # more settings
 

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ site.title }} Regions</h1>
+
+<div>
+{% for region in site.regions %}
+  {{ region }}
+{% endfor %}
+</div>
+
+
+{% for region in site.regions %}
+<h2>{{ region }}</h2>
+
+{% for profile in site.profiles %}
+  {% if region == profile.region_name %}
+    {{ profile.country_code }} {{ profile.country_name }} {{ profile.country_affiliation }}
+  {% endif %}
+{% endfor %}
+
+{% endfor %}
+
