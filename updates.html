@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>{{ site.title }} Updates</h1>
+<h1>Updates :: {{ site.title }}</h1>
 
 <table>
 
@@ -13,7 +13,8 @@ layout: default
 {% for profile in site.profiles | sort: 'last_updated' %}
 <tr>
   <td>{{ profile.last_updated }}</td>
-  <td><code>{{ profile.country_code }}</code>
+  <td><code>{{ profile.country_code }}</code></td>
+  <td>
       <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
         › {{ profile.region_name }}
   </td>

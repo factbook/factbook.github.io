@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Codes :: {{ site.title }}</h1>
+<h1>Names :: {{ site.title }}</h1>
 
 <div>
 {% for profile in site.profiles | sort: 'country_code' %}
@@ -11,17 +11,19 @@ layout: default
 </div>
 
 
+<!-- to check if equal
+      use bold (or blue/red/etc if not equal!!! -->
+
 <table>
 
 {% for profile in site.profiles | sort: 'country_code' %}
 <tr>
+  <td>{{ profile.title }}</td>
   <td><code>{{ profile.country_code }}</code></td>
   <td>
-      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
-
+      {{ profile.country_name }} {{ profile.country_affiliation }}
         › {{ profile.region_name }}
   </td>
-  <td>{{ profile.last_updated }}</td>
 </tr>
 {% endfor %}
 
