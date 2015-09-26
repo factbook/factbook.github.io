@@ -1,4 +1,4 @@
-# World Factbook Country Profiles - Free Open Public Domain Data
+# World Factbook Country Profiles in "Chrome-less" HTML
 
 What's the World Factbook?
 
