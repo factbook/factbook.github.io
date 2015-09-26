@@ -34,6 +34,7 @@ The World Factbook includes 267 entries -
 `as` [Australia](as) ·
 `au` [Austria](au) ·
 `aj` [Azerbaijan](aj)
+
 **B**
 `bf` [The Bahamas](bf) ·
 `ba` [Bahrain](ba) ·
@@ -53,6 +54,7 @@ The World Factbook includes 267 entries -
 `uv` [Burkina Faso](uv) ·
 `bm` [Burma](bm) ·
 `by` [Burundi](by)
+
 **C**
 `cb` [Cambodia](cb) ·
 `cm` [Cameroon](cm) ·
@@ -72,11 +74,13 @@ The World Factbook includes 267 entries -
 `cu` [Cuba](cu) ·
 `cy` [Cyprus](cy) ·
 `ez` [Czech Republic](ez)
+
 **D**
 `da` Denmark
 `dj` Djibouti
 `do` Dominica
 `dr` Dominican Republic
+
 **E**
 `ec` Ecuador
 `eg` Egypt
@@ -85,6 +89,7 @@ The World Factbook includes 267 entries -
 `er` Eritrea
 `en` Estonia
 `et` Ethiopia
+
 **F**
 `fj` Fiji
 `fi` Finland
