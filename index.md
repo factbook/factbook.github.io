@@ -16,17 +16,17 @@ The World Factbook includes 267 entries -
 ## Sovereign Countries (195)
 
 **A**
-`af` Afghanistan
-`al` Albania
-`ag` Algeria
-`an` Andorra
-`ao` Angola
-`ac` Antigua and Barbuda
-`ar` Argentina
-`am` Armenia
-`as` Australia
+`af` [Afghanistan](af.html)
+`al` [Albania](al.html)
+`ag` [Algeria](ag.html)
+`an` [Andorra](an.html)
+`ao` [Angola](ao.html)
+`ac` [Antigua and Barbuda](ac.html)
+`ar` [Argentina](ar.html)
+`am` [Armenia](am.html)
+`as` [Australia](as.html)
 `au` [Austria](au.html)
-`aj` Azerbaijan
+`aj` [Azerbaijan](aj.html)
 **B**
 `bf` The Bahamas
 `ba` Bahrain

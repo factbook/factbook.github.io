@@ -14,7 +14,7 @@ url:   'http://openmundi.github.io/factbook'
 markdown: kramdown
 
 collections:
-  pages:
+  profiles:
     output: true
 
 

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ site.title }} Updates</h1>
+
+<table>
+
+<!--try sort by last_updated - how? possible? -->
+
+{% for profile in site.profiles %}
+<tr>
+  <td>{{ profile.last_updated }}</td>
+  <td>{{ profile.title }}</td>
+  <td>{{ profile.country_code }}</td>
+  <td>{{ profile.country_name }}</td>
+  <td>{{ profile.country_affiliation }}</td>
+  <td>{{ profile.region_code }}</td>
+  <td>{{ profile.region_name }}</td>
+</tr>
+{% endfor %}
+
+</table>
+
