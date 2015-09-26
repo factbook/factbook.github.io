@@ -6,7 +6,7 @@ layout: default
 
 <div>
 {% for region in site.regions %}
-  {{ region }}
+  {{ region }} • 
 {% endfor %}
 </div>
 
@@ -16,7 +16,8 @@ layout: default
 
 {% for profile in site.profiles %}
   {% if region == profile.region_name %}
-    {{ profile.country_code }} {{ profile.country_name }} {{ profile.country_affiliation }}
+    <code>{{ profile.country_code }}</code>
+    <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }}
   {% endif %}
 {% endfor %}
 

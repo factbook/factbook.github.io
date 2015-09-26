@@ -11,12 +11,10 @@ layout: default
 {% for profile in site.profiles %}
 <tr>
   <td>{{ profile.last_updated }}</td>
-  <td>{{ profile.title }}</td>
-  <td>{{ profile.country_code }}</td>
-  <td>{{ profile.country_name }}</td>
-  <td>{{ profile.country_affiliation }}</td>
-  <td>{{ profile.region_code }}</td>
-  <td>{{ profile.region_name }}</td>
+  <td><code>{{ profile.country_code }}</code>
+      <a href="{{ profile.country_code }}">{{ profile.country_name }}</a> {{ profile.country_affiliation }},
+      {{ profile.region_name }}
+  </td>
 </tr>
 {% endfor %}
 
