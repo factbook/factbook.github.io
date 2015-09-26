@@ -2,7 +2,14 @@
 layout: default
 ---
 
-# {{ site.title }} (267 Entries)
+# {{ site.title }}
+
+[Regions](regions) |
+[Codes](codes) |
+[Names](names) |
+[Last Updates](updates)
+
+
 
 The World Factbook includes 267 entries -
 195 sovereign countries /
@@ -16,55 +23,55 @@ The World Factbook includes 267 entries -
 ## Sovereign Countries (195)
 
 **A**
-`af` [Afghanistan](af.html)
-`al` [Albania](al.html)
-`ag` [Algeria](ag.html)
-`an` [Andorra](an.html)
-`ao` [Angola](ao.html)
-`ac` [Antigua and Barbuda](ac.html)
-`ar` [Argentina](ar.html)
-`am` [Armenia](am.html)
-`as` [Australia](as.html)
-`au` [Austria](au.html)
-`aj` [Azerbaijan](aj.html)
+`af` [Afghanistan](af)
+`al` [Albania](al)
+`ag` [Algeria](ag)
+`an` [Andorra](an)
+`ao` [Angola](ao)
+`ac` [Antigua and Barbuda](ac)
+`ar` [Argentina](ar)
+`am` [Armenia](am)
+`as` [Australia](as)
+`au` [Austria](au)
+`aj` [Azerbaijan](aj)
 **B**
-`bf` The Bahamas
-`ba` Bahrain
-`bg` Bangladesh
-`bb` Barbados
-`bo` Belarus
-`be` Belgium
-`bh` Belize
-`bn` Benin
-`bt` Bhutan
-`bl` Bolivia
-`bk` Bosnia and Herzegovina
-`bc` Botswana
-`br` [Brazil](br.html)
-`bx` Brunei
-`bu` Bulgaria
-`uv` Burkina Faso
-`bm` Burma
-`by` Burundi
+`bf` [The Bahamas](bf)
+`ba` [Bahrain](ba)
+`bg` [Bangladesh](bg)
+`bb` [Barbados](bb)
+`bo` [Belarus](bo)
+`be` [Belgium](be)
+`bh` [Belize](bh)
+`bn` [Benin](bn)
+`bt` [Bhutan](bt)
+`bl` [Bolivia](bl)
+`bk` [Bosnia and Herzegovina](bk)
+`bc` [Botswana](bc)
+`br` [Brazil](br)
+`bx` [Brunei](bx)
+`bu` [Bulgaria](bu)
+`uv` [Burkina Faso](uv)
+`bm` [Burma](bm)
+`by` [Burundi](by)
 **C**
-`cb` Cambodia
-`cm` Cameroon
-`ca` Canada
-`cv` Cape Verde
-`ct` Central African Republic
-`cd` Chad
-`ci` Chile
-`ch` China
-`co` Colombia
-`cn` Comoros
-`cg` Congo DR
-`cf` Congo
-`cs` Costa Rica
-`iv` Cote d'Ivoire
-`hr` Croatia
-`cu` Cuba
-`cy` Cyprus
-`ez` Czech Republic
+`cb` [Cambodia](cb)
+`cm` [Cameroon](cm)
+`ca` [Canada](ca)
+`cv` [Cape Verde](cv)
+`ct` [Central African Republic](ct)
+`cd` [Chad](cd)
+`ci` [Chile](ci)
+`ch` [China](ch)
+`co` [Colombia](co)
+`cn` [Comoros](cn)
+`cg` [Congo DR](cg)
+`cf` [Congo](cf)
+`cs` [Costa Rica](cs)
+`iv` [Cote d'Ivoire](iv)
+`hr` [Croatia](hr)
+`cu` [Cuba](cu)
+`cy` [Cyprus](cy)
+`ez` [Czech Republic](ez)
 **D**
 `da` Denmark
 `dj` Djibouti
@@ -271,8 +278,8 @@ France (8):
 
 Netherlands (3):
 `aa` Aruba
-`uc` Curacao
-`nn` Sint Maarten
+`cc` Curacao
+`sk` Sint Maarten
 
 New Zealand (3):
 `cw` Cook Islands
