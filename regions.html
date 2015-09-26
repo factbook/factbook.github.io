@@ -4,17 +4,17 @@ layout: default
 
 <h1>Regions :: {{ site.title }}</h1>
 
-<div>
+<p>
   <a href="regions">This Site</a> |
   <a href="cia">Official</a>
-</div>
+</p>
 
 
-<div>
+<p>
 {% for region in site.regions %}
-  {{ region }} • 
+  {{ region }} |
 {% endfor %}
-</div>
+</p>
 
 
 {% for region in site.regions %}

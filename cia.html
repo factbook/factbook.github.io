@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<h1>Regions :: Official World Factbook Country Profiles</h1>
+<h1>Regions :: The Official World Factbook (Country Profiles)</h1>
 
-<div>
+<p>
   <a href="regions">This Site</a> |
   <a href="cia">Official</a>
-</div>
+</p>
 
 
-<div>
+<p>
 {% for region in site.regions %}
-  {{ region }} • 
+  {{ region }} | 
 {% endfor %}
-</div>
+</p>
 
 
 {% for region in site.regions %}

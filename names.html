@@ -4,11 +4,6 @@ layout: default
 
 <h1>Names :: {{ site.title }}</h1>
 
-<div>
-{% for profile in site.profiles | sort: 'country_code' %}
-  <code>{{ profile.country_code }}</code>
-{% endfor %}  
-</div>
 
 
 <!-- to check if equal

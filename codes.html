@@ -4,11 +4,11 @@ layout: default
 
 <h1>Codes :: {{ site.title }}</h1>
 
-<div>
+<p>
 {% for profile in site.profiles | sort: 'country_code' %}
   <code>{{ profile.country_code }}</code>
 {% endfor %}  
-</div>
+</p>
 
 
 <table>
@@ -21,7 +21,6 @@ layout: default
 
         › {{ profile.region_name }}
   </td>
-  <td>{{ profile.last_updated }}</td>
 </tr>
 {% endfor %}
 
