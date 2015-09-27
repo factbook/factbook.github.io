@@ -7,8 +7,16 @@
 </head>
 <body>
 
-
-<h1>{{ page.country_name }} {{ page.country_affiliation }} :: {{ page.region_name }}</h1>
+<table>
+ <tr>
+    <td><!-- column 1 -->
+       <img src="{{site.path}}/images/flags/{{ page.country_code }}.png">
+    </td>
+    <td><!-- column 2 -->
+      <h1>{{ page.country_name }} {{ page.country_affiliation }} :: {{ page.region_name }}</h1>
+   </td>
+ </tr>    
+</table>
 
 <!--
 <p>
@@ -16,7 +24,6 @@ Last Updated: {{ page.last_updated }}
 </p>
 -->
 
-<img src="{{site.path}}/images/flags/{{ page.country_code }}.png">
 
 <img src="{{site.path}}/images/locators/{{ page.country_code }}.png">
 
