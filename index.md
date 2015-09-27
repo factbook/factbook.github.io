@@ -6,16 +6,16 @@ layout: default
 
 [Regions](regions) |
 [Codes](codes) |
-[Names](names) |
 [Last Updates](updates) |
+[History](history) | 
 [Questions? Comments?](http://groups.google.com/group/openmundi) | 
 [Repo](https://github.com/openmundi/factbook)
 
 
-The World Factbook includes 267 entries -
+The World Factbook includes 261 entries -
 195 sovereign countries /
 2 others /
-58 dependencies /
+52 dependencies /
 6 miscellaneous /
 5 oceans /
 1 world:
@@ -334,7 +334,7 @@ Great Britain (17):
 `sx` [South Georgia and the South Sandwich Islands](sx) ·
 `tk` [Turks and Caicos Islands](tk)
 
-United States (14):
+United States (8):
 `aq` [American Samoa](aq) ·
 `gq` [Guam](gq) ·
 `bq` [Navassa Island](bq) ·
