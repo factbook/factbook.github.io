@@ -15,6 +15,9 @@
     <td><!-- column 2 -->
       <h1>{{ page.country_name }} {{ page.country_affiliation }} :: {{ page.region_name }}</h1>
    </td>
+    <td><!-- column 3 -->
+       <img src="{{site.path}}/images/locators/{{ page.country_code }}.png" style="width: 160px; height: auto;">
+    </td>
  </tr>    
 </table>
 
@@ -25,9 +28,6 @@ Last Updated: {{ page.last_updated }}
 -->
 
 <img src="{{site.path}}/images/maps/{{ page.country_code }}.png">
-
-<img src="{{site.path}}/images/locators/{{ page.country_code }}.png" style="width: 200px; height: auto;">
-
 
 
 {{ content }}
