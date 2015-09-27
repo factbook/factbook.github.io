@@ -8,16 +8,23 @@ body {
 }
 
 
-/* sections */
-h2 { color: navy; }   
+////////////////
+// note:
+//   toggle debug class on body to turn on/off debug styles
 
-/* fields (e.g. subsections) */
-div#field { color: blue; font-weight: bold; }
+  // sections
+  h2 { color: navy; }   
 
-/* category (name) */
-div.category { background-color:  lime; margin: 2px; }
-span.category { display: inline-block; background-color: green; margin: 1px; }
+  // fields (e.g. subsections) */
+  div#field { color: blue; font-weight: bold; }
 
-/* category (value) */
-div.category_data  { background-color: silver; margin: 2px; }
-span.category_data  { display: inline-block; background-color: grey; margin: 1px; }
+.debug {
+
+  // category (name)
+  div.category { background-color:  lime; margin: 2px; }
+  span.category { display: inline-block; background-color: green; margin: 1px; }
+
+  // category (value)
+  div.category_data  { background-color: silver; margin: 2px; }
+  span.category_data  { display: inline-block; background-color: grey; margin: 1px; }
+}

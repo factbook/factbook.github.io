@@ -1,8 +1,13 @@
-# factbook
+# World Factbook Country Profiles in "Chrome-less" HTML
 
-World Factbook Country Profiles - Free Open Public Domain Data
+What's the World Factbook?
 
-See [`openmundi.github.io/factbook`](http://openmundi.github.io/factbook) for "live" browsing.
+The World Factbook [1][2] published by the Central Intelligence Agency (CIA)
+offers free country profiles in the public domain (that is, no copyright(s), no rights reserved).
+
+- [1] [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+- [2] [Wikipedia Article: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook)
+
 
 Note: This repo stores "chrome-less" copies of the official online "live" pages
 (and not copies of the pages included in the archive for bulk download, for example).
@@ -13,6 +18,12 @@ a script cleans up the profile page and strips it down to the basics.
 Using these "core" country profile pages without any extra headers, footers, scripts, etc.
 should make it easier to keep track of changes and turn it into structured data (e.g. factbook.json)
 even as some formatting and styles get rearranged on the official site. 
+
+
+## "Live" Browsing
+
+See [`openmundi.github.io/factbook`](http://openmundi.github.io/factbook) for "live" browsing all
+country profiles stored in the `_profiles/` folder.
 
 
 ## Format(ting) Notes
