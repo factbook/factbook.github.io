@@ -22,7 +22,7 @@ even as some formatting and styles get rearranged on the official site.
 
 ## "Live" Browsing
 
-See [`openmundi.github.io/factbook`](http://openmundi.github.io/factbook) for "live" browsing all
+See [`factbook.github.io`](http://factbook.github.io) for "live" browsing all
 country profiles stored in the `_profiles/` folder.
 
 
