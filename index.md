@@ -9,7 +9,7 @@ layout: default
 [Last Updates](updates) |
 [History](history) | 
 [Questions? Comments?](http://groups.google.com/group/openmundi) | 
-[Repo](https://github.com/openmundi/factbook)
+[Data, Repos](https://github.com/factbook)
 
 
 The World Factbook includes 261 entries -
