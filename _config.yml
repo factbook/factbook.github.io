@@ -4,8 +4,8 @@
 title: 'The World Factbook'
 
 ## note: in path do NOT include root (trailing slash) e.g. (/) - use empty string instead
-path:  '/factbook'
-url:   'http://openmundi.github.io/factbook'
+path:  ''
+url:   'http://factbook.github.io'
 
 
 ##  all world factbook regions
