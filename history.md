@@ -28,9 +28,14 @@ Added, Removed, Consolidated  |  Renamed  |  Other
 
 ### 2006
 
-- (-) ~~Serbia and Montenegro~~   -- _dropped due to independence of Montenegro_
-- (+) Serbia       -- _added due to independence of Montenegro_
-- (+) Montenegro   -- _"  "_
+#### (-)
+
+- ~~Serbia and Montenegro~~   -- _dropped due to independence of Montenegro_
+
+#### (+)
+
+- Serbia       -- _added due to independence of Montenegro_
+- Montenegro   -- _"  "_
 
 ### 2002
 
@@ -38,25 +43,28 @@ Added, Removed, Consolidated  |  Renamed  |  Other
 
 - East Timor
 
+### 1993
 
-### 1993 (-)
+#### (-)
 
 - ~~Czechoslovakia~~  -- _dropped after the country splits into the Czech Republic and Slovakia_
 
-### 1993 (+)
+#### (+)
 
 - Czech Republic -- _added after Czechoslovakia splits_
 - Slovakia       -- _"  "_
 - Eritrea        -- _added upon independence from Ethiopia_
 
 
-### 1992 (-)
+### 1992
+
+#### (-)
 
 - ~~Soviet Union~~
 - ~~Yugoslavia~~
 - ~~Iraq-Saudi Arabia Neutral Zone~~
 
-### 1992 (+)
+#### (+)
 
 _replaced the Soviet Union_
 
