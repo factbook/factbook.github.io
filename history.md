@@ -9,29 +9,32 @@ Added, Removed, Consolidated  |  Renamed  |  Other
 
 ## Added, Removed, Consolidated
 
-### 2010 (-)
+### 2010
+
+#### (-)
 
 - ~~Netherlands Antilles~~ -- _dropped after the Netherlands Antilles dissolves_
 
-### 2010 (+)
+#### (+)
 
 - Curacao       -- _added after the Netherlands Antilles dissolves_
 - Sint Maarten  -- _"  "_
 
-### 2008 (+)
+### 2008
+
+##### (+)
 
 - Kosovo
 
-### 2006 (-)
+### 2006
 
-- ~~Serbia and Montenegro~~   -- _dropped due to independence of Montenegro_
+- (-) ~~Serbia and Montenegro~~   -- _dropped due to independence of Montenegro_
+- (+) Serbia       -- _added due to independence of Montenegro_
+- (+) Montenegro   -- _"  "_
 
-### 2006 (+)
+### 2002
 
-- Serbia       -- _added due to independence of Montenegro_
-- Montenegro   -- _"  "_
-
-### 2002 (+)
+#### (+)
 
 - East Timor
 
