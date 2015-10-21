@@ -5,33 +5,33 @@ layout: default
 # History :: {{ site.title }}
 
 
-Added, Removed, Consolidated  • 
-Renamed  • 
-Other
+[Added, Removed, Consolidated](#added-removed-consolidated)  • 
+[Renamed](#renamed)  • 
+[Other](#other)
 
 
 ## Added, Removed, Consolidated
 
 ### 2011
 
-**(+)**
+#### (+)
 
 - South Sudan  -- _added following independence from Sudan_
 
 ### 2010
 
-**(-)**
+#### (-)
 
 - ~~Netherlands Antilles~~  -- _dropped after the Netherlands Antilles dissolves_
 
-**(+)**
+#### (+)
 
 - Curacao        -- _added after the Netherlands Antilles dissolves_
 - Sint Maarten   -- _"  "_
 
 ### 2008
 
-##### (+)
+#### (+)
 
 - Kosovo
 
@@ -95,14 +95,11 @@ _replaced the Soviet Union_
 
 _replaced Yugoslavia_
 
-- Bosnia and Hercegovina
+- Bosnia and Herzegovina
 - Croatia
 - Macedonia
-- Serbia and Montenegro [C]
+- Serbia and Montenegro
 - Slovenia
-
-
-to be continued
 
 
 
@@ -171,11 +168,6 @@ to be continued
 
 
 
-to be continued
-
-
-
-
 
 
 ## Others
@@ -192,5 +184,5 @@ to be continued
 ## Sources
 
 - Wikipedia - [List of entities and changes in The World Factbook](https://en.wikipedia.org/wiki/List_of_entities_and_changes_in_The_World_Factbook)
-- Factbook - [What's New](https://www.cia.gov/library/publications/the-world-factbook/docs/whatsnew.html)
+- The World Factbook - [What's New](https://www.cia.gov/library/publications/the-world-factbook/docs/whatsnew.html)
 
