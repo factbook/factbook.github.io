@@ -4,22 +4,27 @@ layout: default
 
 # History :: {{ site.title }}
 
-Added, Removed, Consolidated  |  Renamed  |  Other
+
+Added, Removed, Consolidated  • 
+Renamed  • 
+Other
 
 
 ## Added, Removed, Consolidated
 
 ### 2011
 
+**(+)**
+
 - South Sudan  -- _added following independence from Sudan_
 
 ### 2010
 
-#### (-)
+**(-)**
 
 - ~~Netherlands Antilles~~  -- _dropped after the Netherlands Antilles dissolves_
 
-#### (+)
+**(+)**
 
 - Curacao        -- _added after the Netherlands Antilles dissolves_
 - Sint Maarten   -- _"  "_
