@@ -174,25 +174,25 @@ _replaced Yugoslavia_
 
 ### 2011
 
-- Mayotte    -- _dropped because the area is now an Overseas department and a part of France proper_
+- ~~Mayotte~~    -- _dropped because the area is now an Overseas department and a part of France proper_
 
 ### 2007
 
 _dropped because the area is now part of the Iles Eparses district of the French Southern and Antarctic Lands_
 
-- Bassas da India
-- Europa Island
-- Glorioso Islands
-- Juan de Nova Island
-- Tromelin Island
-- Iles Eparses
+- ~~Bassas da India~~
+- ~~Europa Island~~
+- ~~Glorioso Islands~~
+- ~~Juan de Nova Island~~
+- ~~Tromelin Island~~
+- ~~Iles Eparses~~
 
 _dropped because the area is now an Overseas region and a part of France proper_
 
-- French Guiana
-- Guadeloupe
-- Martinique
-- Reunion
+- ~~French Guiana~~
+- ~~Guadeloupe~~
+- ~~Martinique~~
+- ~~Reunion~~
 
 _added due to the fact the area is now an Overseas collectivity of France_
 
@@ -210,6 +210,8 @@ _consolidated in Iles Eparses entry_
 - Glorioso Islands
 - Juan de Nova Island
 - Tromelin Island
+
+<!-- new list -->
 
 - United States Pacific Island Wildlife Refuges  -- _a consolidation of the entries for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, and Palmyra Atoll_
 
