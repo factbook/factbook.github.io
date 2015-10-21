@@ -20,14 +20,15 @@ layout: default
 
 ### 2010
 
-#### (-)
-
-- ~~Netherlands Antilles~~  -- _dropped after the Netherlands Antilles dissolves_
-
 #### (+)
 
 - Curacao        -- _added after the Netherlands Antilles dissolves_
 - Sint Maarten   -- _"  "_
+
+#### (-)
+
+- ~~Netherlands Antilles~~  -- _dropped after the Netherlands Antilles dissolves_
+
 
 ### 2008
 
@@ -37,14 +38,14 @@ layout: default
 
 ### 2006
 
-#### (-)
-
-- ~~Serbia and Montenegro~~   -- _dropped due to independence of Montenegro_
-
 #### (+)
 
 - Serbia       -- _added due to independence of Montenegro_
 - Montenegro   -- _"  "_
+
+#### (-)
+
+- ~~Serbia and Montenegro~~   -- _dropped due to independence of Montenegro_
 
 ### 2002
 
@@ -54,24 +55,18 @@ layout: default
 
 ### 1993
 
-#### (-)
-
-- ~~Czechoslovakia~~  -- _dropped after the country splits into the Czech Republic and Slovakia_
-
 #### (+)
 
 - Czech Republic -- _added after Czechoslovakia splits_
 - Slovakia       -- _"  "_
 - Eritrea        -- _added upon independence from Ethiopia_
 
-
-### 1992
-
 #### (-)
 
-- ~~Soviet Union~~
-- ~~Yugoslavia~~
-- ~~Iraq-Saudi Arabia Neutral Zone~~
+- ~~Czechoslovakia~~  -- _dropped after the country splits into the Czech Republic and Slovakia_
+
+
+### 1992
 
 #### (+)
 
@@ -101,6 +96,11 @@ _replaced Yugoslavia_
 - Serbia and Montenegro
 - Slovenia
 
+#### (-)
+
+- ~~Soviet Union~~
+- ~~Yugoslavia~~
+- ~~Iraq-Saudi Arabia Neutral Zone~~
 
 
 
@@ -201,8 +201,6 @@ _added due to the fact the area is now an Overseas collectivity of France_
 
 ### 2006
 
-- Iles Eparses  -- _a consolidation of the entries for Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island_
-
 _consolidated in Iles Eparses entry_
 
 - Bassas da India
@@ -210,10 +208,6 @@ _consolidated in Iles Eparses entry_
 - Glorioso Islands
 - Juan de Nova Island
 - Tromelin Island
-
-<!-- new list -->
-
-- United States Pacific Island Wildlife Refuges  -- _a consolidation of the entries for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, and Palmyra Atoll_
 
 _consolidated in United States Pacific Island Wildlife Refuges entry_
 
