@@ -9,16 +9,20 @@ Added, Removed, Consolidated  |  Renamed  |  Other
 
 ## Added, Removed, Consolidated
 
+### 2011
+
+- South Sudan  -- _added following independence from Sudan_
+
 ### 2010
 
 #### (-)
 
-- ~~Netherlands Antilles~~ -- _dropped after the Netherlands Antilles dissolves_
+- ~~Netherlands Antilles~~  -- _dropped after the Netherlands Antilles dissolves_
 
 #### (+)
 
-- Curacao       -- _added after the Netherlands Antilles dissolves_
-- Sint Maarten  -- _"  "_
+- Curacao        -- _added after the Netherlands Antilles dissolves_
+- Sint Maarten   -- _"  "_
 
 ### 2008
 
@@ -99,6 +103,10 @@ to be continued
 
 
 ## Renamed
+
+### 2014
+
+- Cape Verde  =>  Cabo Verde
 
 ### 2010
 
