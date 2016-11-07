@@ -1,4 +1,4 @@
-# World Factbook Country Profiles in "Chrome-less" HTML
+# World Factbook Country Profiles in "Chrome-Less" HTML
 
 What's the World Factbook?
 
