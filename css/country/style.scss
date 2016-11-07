@@ -25,13 +25,21 @@ body {
       color: blue; 
   }
 
+
+  .category,
+  .category_data {
+        font-size: 11px;
+       letter-spacing: 1px;
+       line-height: 16px;
+       vertical-align: middle;
+}
+
   .category {
       font-weight: bold; 
-      font-size: 11px;
-  }
+}
 
   .category_data {
-      font-size: 11px;
+      // font-size: 11px;
   }
 
 
