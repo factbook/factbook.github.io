@@ -14,18 +14,26 @@ body {
 //   toggle debug class on body to turn on/off debug styles
 
   // sections
-  h2 { color: navy;
+  h2 { 
+       // color: navy;
        font-weight: bold;
+       margin-top: 12px;
        border-top: 1px solid navy;
        padding-top: 4px;
+       padding-bottom: 4px;
+       margin-bottom: 2px;
        font-size: 14px;
-       background-color: #C0C0C0;  // Silver	
+       // background-color: #C0C0C0;  // Silver	
+       // background-color: #f1e3d0;
+       background-color: #DEB887;  // BurlyWood
+
      }   
 
   // fields (e.g. subsections) */
   div#field { 
-      color: navy; 
-      background-color: #D3D3D3;  // LightGray	
+      // color: navy; 
+      // background-color: #D3D3D3;  // LightGray	
+      background-color:  #F5DEB3;  // Wheat	
   }
 
 
