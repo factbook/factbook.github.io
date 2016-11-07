@@ -29,13 +29,6 @@ body {
 
      }   
 
-  // fields (e.g. subsections) */
-  div#field { 
-      // color: navy; 
-      // background-color: #D3D3D3;  // LightGray	
-      background-color:  #F5DEB3;  // Wheat	
-  }
-
 
   .category,
   .category_data {
@@ -52,6 +45,18 @@ body {
   .category_data {
       // font-size: 11px;
   }
+
+
+  // fields (e.g. subsections)
+  //  note: div fields is also a category
+  div#field { 
+      // color: navy; 
+      // background-color: #D3D3D3;  // LightGray	
+      background-color:  #F5DEB3;  // Wheat	
+      font-size: 13px;
+      line-height: 18px;
+  }
+
 
 
 /////////////////////////////////////
