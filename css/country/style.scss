@@ -17,12 +17,15 @@ body {
   h2 { color: navy;
        font-weight: bold;
        border-top: 1px solid navy;
+       padding-top: 4px;
        font-size: 14px;
+       background-color: #C0C0C0;  // Silver	
      }   
 
   // fields (e.g. subsections) */
   div#field { 
-      color: blue; 
+      color: navy; 
+      background-color: #D3D3D3;  // LightGray	
   }
 
 
