@@ -4,7 +4,8 @@
 
 
 body {
-  font-family: Helvetica,Arial,sans-serif;
+  // font-family: Helvetica,Arial,sans-serif;
+  font-family: Geneva, Arial, Helvetica, sans-serif;    // same as print version of cia world factbook
 }
 
 
@@ -13,10 +14,29 @@ body {
 //   toggle debug class on body to turn on/off debug styles
 
   // sections
-  h2 { color: navy; }   
+  h2 { color: navy;
+       font-weight: bold;
+       border-top: 1px solid navy;
+       font-size: 14px;
+     }   
 
   // fields (e.g. subsections) */
-  div#field { color: blue; font-weight: bold; }
+  div#field { 
+      color: blue; 
+  }
+
+  .category {
+      font-weight: bold; 
+      font-size: 11px;
+  }
+
+  .category_data {
+      font-size: 11px;
+  }
+
+
+/////////////////////////////////////
+// debug
 
 .debug {
 
