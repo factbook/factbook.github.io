@@ -25,25 +25,35 @@ body {
   max-height: 200px;
 }
 
-
-////////////////
-// note:
-//   toggle debug class on body to turn on/off debug styles
-
   // sections
   h2 {
        // color: navy;
-       font-weight: bold;
        margin-top: 12px;
        border-top: 1px solid navy;
        padding-top: 4px;
        padding-bottom: 4px;
        margin-bottom: 2px;
        font-size: 14px;
+       font-weight: bold;
        // background-color: #C0C0C0;  // Silver
        // background-color: #f1e3d0;
        background-color: #DEB887;  // BurlyWood
 
+     }
+
+     // subsections/fields
+     h3 {
+          padding-top: 1px;
+          padding-bottom: 1px;
+          margin: 0;
+         // color: navy;
+         // background-color: #D3D3D3;  // LightGray
+         background-color:  #F5DEB3;  // Wheat
+         font-size: 12px;
+         font-weight: bold;
+         line-height: 17px;
+         letter-spacing: 1px;
+         vertical-align: middle;    // needed? why? why not??
      }
 
 
@@ -64,16 +74,10 @@ body {
   }
 
 
-  // fields (e.g. subsections)
-  //  note: div fields is also a category
-  div#field {
-      // color: navy;
-      // background-color: #D3D3D3;  // LightGray
-      background-color:  #F5DEB3;  // Wheat
-      font-size: 12px;
-      line-height: 17px;
-  }
 
+  ////////////////
+  // note:
+  //   toggle debug class on body to turn on/off debug styles
 
 
 /////////////////////////////////////
