@@ -11,13 +11,13 @@ offers free country profiles in the public domain (that is, no copyright(s), no 
 
 Note: This repo stores "chrome-less" copies of the official online "live" pages
 (and not copies of the pages included in the archive for bulk download, for example).
-Since the offical pages have a lot of chrome e.g. page decoration such as site 
+Since the offical pages have a lot of chrome e.g. page decoration such as site
 navigation headers, footers, scripts, etc. around the "core" country profile
-a script cleans up the profile page and strips it down to the basics. 
+a script cleans up the profile page and strips it down to the basics.
 
 Using these "core" country profile pages without any extra headers, footers, scripts, etc.
 should make it easier to keep track of changes and turn it into structured data (e.g. factbook.json)
-even as some formatting and styles get rearranged on the official site. 
+even as some formatting and styles get rearranged on the official site.
 
 
 ## "Live" Browsing
@@ -48,21 +48,21 @@ Sections use `h2`'s. Examples:
 
 #### Subsections
 
-Subsections (fields) use `div`'s with the id `field` and the class `category`.
-Examples:
+Subsections (fields) use `h3`'s. Examples:
 
 ``` html
-<div id='field' class='category'>Background:</div> <!-- starts the subsection Background -->
+<h3>Background:</h3> <!-- starts the subsection Background -->
 ...
-<div id='field' class='category'>Location:</div>   <!-- starts the subsection Location -->
+<h3>Location:</h3>   <!-- starts the subsection Location -->
 ...
-<div id='field' class='category'>Geographic coordinates:</div>
+<h3>Geographic coordinates:</h3>
 ...
-<div id='field' class='category'>Map references:</div>
+<h3>Map references:</h3>
 ...
-<div id='field' class='category'>Area:</div>
+<h3>Area:</h3>
 ...
 ```
+
 
 #### Data Entries
 
@@ -100,7 +100,6 @@ Simple (with Note):
 
 Note: All (style) classes get stripped except:
 
-- `region`
 - `category`
 - `category_data`
 
@@ -111,5 +110,5 @@ The audio player (for the national anthem) gets stripped.
 
 ## Questions? Comments?
 
-Send them along to the [Open World Database (world.db) and Friends Forum/Mailing List](http://groups.google.com/group/openmundi). 
+Send them along to the [Open World Database (world.db) and Friends Forum/Mailing List](http://groups.google.com/group/openmundi).
 Thanks!
