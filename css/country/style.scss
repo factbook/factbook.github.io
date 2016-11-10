@@ -87,11 +87,12 @@ body {
 
     font-size: 11px;
     // letter-spacing: 1px;
-    // line-height: 16px;
+    line-height: 15px;   // was 16px;
     // vertical-align: middle;
   
   ul {
-     list-style-type: square;
+     // list-style-type: square;
+     list-style-type: none;
   }
 
   a {
