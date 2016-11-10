@@ -74,11 +74,32 @@ body {
   }
 
 
+#toc {
+    width: 300px;  /* 35px */
+    float: right;
+    /* border: silver solid 1pt; */
+    border: #bbb solid 1pt;
+    background-color: #eeeeee;
+    font-size: 80%;
+
+  ul {
+     list-style-type: square;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  } 
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+
 
   ////////////////
   // note:
   //   toggle debug class on body to turn on/off debug styles
-
 
 /////////////////////////////////////
 // old debug // fix for new format ???
