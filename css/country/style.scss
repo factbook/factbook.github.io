@@ -69,9 +69,9 @@ body {
       font-weight: bold;
 }
 
-  .category_data {
+ .category_data {
       // font-size: 11px;
-  }
+ }
 
 
 #toc {
@@ -79,7 +79,9 @@ body {
     float: right;
     /* border: silver solid 1pt; */
     border: #bbb solid 1pt;
-    background-color: #f9f9f9;   /* #eeeeee; */
+    
+    /* background-color: #f9f9f9; */   /* #eeeeee; */
+    background-color: #F5DEB3;  // Wheat
     font-size: 80%;
   
   ul {
