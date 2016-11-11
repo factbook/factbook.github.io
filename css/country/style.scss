@@ -76,14 +76,16 @@ body {
 
 #toc {
     width: 300px;  /* 35px */
+    padding: 7px;
     float: right;
     /* border: silver solid 1pt; */
-    border: #bbb solid 1pt;
+    border: 1px solid #AAA;
     
     /* background-color: #f9f9f9; */   /* #eeeeee; */
-    background-color: #F5DEB3;  // Wheat
-
-    // font-size: 80%;
+    // background-color: #F5DEB3;  // Wheat
+    background-color: #F9F9F9;
+    
+  // font-size: 80%;
 
     font-size: 11px;
     line-height: 16px;
@@ -93,6 +95,14 @@ body {
   ul {
      // list-style-type: square;
      list-style-type: none;
+     list-style-image: none;
+     padding: 0;
+     margin-left: 0;
+    
+    ul {
+      // 2nd level list
+      margin: 0 0 0 2em;
+    }
   }
 
   a {
