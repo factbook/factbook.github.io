@@ -37,8 +37,7 @@ body {
        font-weight: bold;
        // background-color: #C0C0C0;  // Silver
        // background-color: #f1e3d0;
-       background-color: #DEB887;  // BurlyWood
-
+       // background-color: #DEB887;  // BurlyWood
      }
 
      // subsections/fields
@@ -48,11 +47,12 @@ body {
           margin: 0;
          // color: navy;
          // background-color: #D3D3D3;  // LightGray
-         background-color:  #F5DEB3;  // Wheat
+         // background-color:  #F5DEB3;  // Wheat
+         background-color: #CCCCFF;
          font-size: 12px;
          font-weight: bold;
          line-height: 17px;
-         letter-spacing: 1px;
+         // letter-spacing: 1px;
          vertical-align: middle;    // needed? why? why not??
      }
 
@@ -60,7 +60,7 @@ body {
   .category,
   .category_data {
         font-size: 11px;
-       letter-spacing: 1px;
+       // letter-spacing: 1px;
        line-height: 16px;
        vertical-align: middle;
 }
