@@ -15,7 +15,13 @@
 **/
 
 function buildToc() {
-    var toc = "<ul>";
+    var toc = "";
+    toc += "<div id='tocheader'>";
+    toc += "<span id='toctitle'>Contents</span>";
+    toc += "<span id='toctoggle'>&nbsp;[<a href='#'>hide</a>]&nbsp;</span>";
+    toc += "</div>";
+  
+    toc += "<ul>";
     $( "h2" ).each( function(index) {
       var num1 = (index+1)+"";
       var text = $( this ).text();
