@@ -98,6 +98,14 @@ body {
     // letter-spacing: 1px;
     // vertical-align: middle;
   
+  #tocheader {
+    text-align: center;
+    #toctitle {
+      font-weight: bold;
+    }
+  }
+  
+ 
   ul {
      // list-style-type: square;
      list-style-type: none;
