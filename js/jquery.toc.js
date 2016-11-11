@@ -18,7 +18,8 @@ function buildToc() {
     var toc = "";
     toc += "<div id='tocheader'>";
     toc += "<span id='toctitle'>Contents</span>";
-    toc += "<span id='toctoggle'>&nbsp;[<a href='#'>hide</a>]&nbsp;</span>";
+  // todo: add hide/show toggle button
+  // toc += "<span id='toctoggle'>&nbsp;[<a href='#'>hide</a>]&nbsp;</span>";
     toc += "</div>";
   
     toc += "<ul>";
