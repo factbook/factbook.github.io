@@ -3,6 +3,12 @@
 ---
 
 
+$font-size-section: 14px;
+$font-size-subsection: 13px;
+$font-size-text: 12px;
+
+
+
 body {
   // font-family: Helvetica,Arial,sans-serif;
   font-family: Geneva, Arial, Helvetica, sans-serif;    // same as print version of cia world factbook
@@ -17,7 +23,7 @@ body {
 
 .headerImgHolder img {
   background-color: #FFFFFF;
-  border: 1px solid #CCCCCC;
+  border: 1px solid #AAA;
   margin: 10px 0 10px 5px;
   padding: 7px;
   vertical-align: middle;
@@ -28,12 +34,12 @@ body {
   // sections
   h2 {
        // color: navy;
-       margin-top: 12px;
+       margin-top: 16px;
        border-top: 1px solid black;
        padding-top: 4px;
        padding-bottom: 4px;
        margin-bottom: 2px;
-       font-size: 14px;
+       font-size: $font-size-section;
        font-weight: bold;
        // background-color: #C0C0C0;  // Silver
        // background-color: #f1e3d0;
@@ -49,9 +55,9 @@ body {
          // background-color: #D3D3D3;  // LightGray
          // background-color:  #F5DEB3;  // Wheat
          background-color: #CCCCFF;
-         font-size: 12px;
+         font-size: $font-size-subsection;
          font-weight: bold;
-         line-height: 17px;
+         line-height: $font-size-subsection + 5;
          // letter-spacing: 1px;
          vertical-align: middle;    // needed? why? why not??
      }
@@ -59,9 +65,9 @@ body {
 
   .category,
   .category_data {
-        font-size: 11px;
+        font-size: $font-size-text;
        // letter-spacing: 1px;
-       line-height: 16px;
+       line-height: $font-size-text + 5;
        vertical-align: middle;
 }
 
@@ -87,8 +93,8 @@ body {
     
   // font-size: 80%;
 
-    font-size: 11px;
-    line-height: 16px;
+    font-size: $font-size-text;
+    line-height: $font-size-text + 5;
     // letter-spacing: 1px;
     // vertical-align: middle;
   
