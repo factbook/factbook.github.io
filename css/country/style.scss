@@ -73,7 +73,13 @@ body {
       .subfield-name {
         font-weight: bold;
       }
+
+      // note: reset margin for p(aragraphs) to 0 (treat like div)
+      p {
+        margin: 0;
+      }
 }
+
 
 
 #toc {
