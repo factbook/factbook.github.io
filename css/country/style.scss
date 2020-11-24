@@ -3,9 +3,9 @@
 ---
 
 
-$font-size-section: 14px;
+$font-size-section:    14px;
 $font-size-subsection: 13px;
-$font-size-text: 12px;
+$font-size-text:       12px;
 
 
 
@@ -13,11 +13,11 @@ body {
   // font-family: Helvetica,Arial,sans-serif;
   font-family: Geneva, Arial, Helvetica, sans-serif;    // same as print version of cia world factbook
 
-  max-width: 1200px;
-  padding-left: 4px;
+  max-width:     1200px;
+  padding-left:  4px;
   padding-right: 4px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left:   auto;
+  margin-right:  auto;
 }
 
 
@@ -63,21 +63,17 @@ body {
      }
 
 
-  .category,
   .category_data {
-        font-size: $font-size-text;
-       // letter-spacing: 1px;
+       font-size: $font-size-text;
+        // font-size: 11px;
+        // letter-spacing: 1px;
        line-height: $font-size-text + 5;
        vertical-align: middle;
-}
 
-  .category {
-      font-weight: bold;
+      .subfield-name {
+        font-weight: bold;
+      }
 }
-
- .category_data {
-      // font-size: 11px;
- }
 
 
 #toc {
@@ -87,33 +83,33 @@ body {
     /* border: silver solid 1pt; */
     border: 1px solid #AAA;
     margin-top: 18px;
-    
+
     /* background-color: #f9f9f9; */   /* #eeeeee; */
     // background-color: #F5DEB3;  // Wheat
     background-color: #F9F9F9;
-    
+
   // font-size: 80%;
 
     font-size: $font-size-text;
     line-height: $font-size-text + 5;
     // letter-spacing: 1px;
     // vertical-align: middle;
-  
+
   #tocheader {
     text-align: center;
     #toctitle {
       font-weight: bold;
     }
   }
-  
- 
+
+
   ul {
      // list-style-type: square;
      list-style-type: none;
      list-style-image: none;
      padding: 0;
      margin-left: 0;
-    
+
     ul {
       // 2nd level list
       margin: 0 0 0 2em;
@@ -123,7 +119,7 @@ body {
   a {
     text-decoration: none;
     color: black;
-  } 
+  }
   a:hover {
     text-decoration: underline;
   }
