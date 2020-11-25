@@ -70,7 +70,11 @@ body {
        line-height: $font-size-text + 5;
        vertical-align: middle;
 
-      .subfield-name {
+       // note: if subfield group is present
+       //  than name is NOT really used as field key anymore
+       //  but only an inline text
+      .subfield-name,
+      .subfield-group {
         font-weight: bold;
       }
 
@@ -85,6 +89,11 @@ body {
       p {
         margin: 0;
       }
+
+    // try adding a border before note block
+    .category_data.note {
+      border-top: 1px solid gray;
+    }
 }
 
 
