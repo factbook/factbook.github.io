@@ -74,6 +74,13 @@ body {
         font-weight: bold;
       }
 
+      // note: reset strong to em(phasis) -
+      // to see the difference between field name and just an inline emphasized note/marker
+      strong {
+        font-weight: normal;
+        font-style:  italic;
+      }
+
       // note: reset margin for p(aragraphs) to 0 (treat like div)
       p {
         margin: 0;
