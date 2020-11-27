@@ -63,13 +63,18 @@ body {
      }
 
 
-  .category_data {
+  .category_data,
+    div:not([class])    // todo/fix: add a class to country compare (for now it's an empty div
+  {
        font-size: $font-size-text;
         // font-size: 11px;
         // letter-spacing: 1px;
        line-height: $font-size-text + 5;
        vertical-align: middle;
+  }
 
+ .category_data
+  {
        // note: if subfield group is present
        //  than name is NOT really used as field key anymore
        //  but only an inline text
@@ -91,10 +96,10 @@ body {
       }
 }
 
-   // try adding a border before note block
-   .category_data.note {
-      border-top: 1px solid silver;
-    }
+ // try adding a border before note block
+ .category_data.note {
+    border-top: 1px solid silver;
+ }
 
 
 
